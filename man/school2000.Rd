@@ -21,7 +21,7 @@
 \author{
  Dataset created by OECD, transformed by Przemyslaw Biecek
 }
-\seealso{\code{\link{math2000}}, \code{\link{read2000}}, \code{\link{scie2000}}, \code{\link{item2009}}}
+\seealso{\code{\link{math2000}}, \code{\link{read2000}}, \code{\link{scie2000}}, \code{\link{item2000}}}
 \examples{
 library(PISA2000lite)
 
