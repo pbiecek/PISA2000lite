@@ -1,0 +1,17 @@
+Package: PISA2000lite
+Version: 1.0
+Type: Package
+Title: Set of datasets from PISA 2000 study
+Author: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
+Maintainer: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
+Description: This package aggregates datasets from PISA 2000 study. 
+        The original dataset is available here: \code{http://pisa2000.acer.edu.au/downloads.php}. It was converted into the R package to facilitate access for researchers familiar with R.
+        The PISA2000lite package contains raw datasets available on the PISA webpage. Be aware it is quite large package.
+Repository: CRAN
+License: GPL-2
+LazyLoad: yes
+LazyData: yes
+URL: http://pisa2000.acer.edu.au/
+Depends: R (>= 2.8.0)
+LinkingTo:
+Imports:
