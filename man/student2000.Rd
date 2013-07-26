@@ -4,7 +4,7 @@
 \alias{read2000}
 \alias{read2000dict}
 \alias{scie2000}
-\alias{scie2000dict}
+\alias{scie2000dict} 
 \alias{item2000}
 \alias{item2000dict}
 \alias{escs2000}
