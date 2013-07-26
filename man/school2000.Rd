@@ -4,15 +4,15 @@
 \docType{data}
 \title{Data from school questionnaire PISA 2000}
 \description{
-  The english version of school questionnaire PISA 2000 is avaliable here \code{http://pisa2000.acer.edu.au/downloads/PISA2000_School_Questionnaire.doc}.
+  The english version of school questionnaire PISA 2000 is available here \code{http://pisa2000.acer.edu.au/downloads/PISA2000_School_Questionnaire.doc}.
 
   There is 8526 rows/schools and 169 columns/variables.
 
   The \code{school2000} dataset is imported from this file \code{http://pisa2000.acer.edu.au/downloads/intscho.zip}.
 
-  The codebook for this dataset is avaliable here \code{http://pisa2000.acer.edu.au/downloads/intscho.pdf}.
+  The codebook for this dataset is available here \code{http://pisa2000.acer.edu.au/downloads/intscho.pdf}.
   
-  The variable names are avaliable in the named vector \code{school2000dicts}.
+  The variable names are available in the named vector \code{school2000dicts}.
 }
 \usage{data(school2000)}
 \references{
@@ -25,7 +25,7 @@
 \examples{
 library(PISA2000lite)
 
-# first few rows
+# first five rows
 school2000[1:5,1:5]
 head(school2000dict)
 }
