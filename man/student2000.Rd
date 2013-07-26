@@ -1,4 +1,4 @@
-\name{math2000}
+\name{read2000}
 \alias{math2000}
 \alias{math2000dict}
 \alias{read2000}
@@ -35,9 +35,8 @@
 \examples{
 library(PISA2000lite)
 
-# first few rows
+# first five rows
 math2000[1:5,1:10]
 head(math2000dict)
-
 }
 \keyword{datasets}
