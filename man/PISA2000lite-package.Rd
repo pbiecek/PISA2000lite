@@ -4,7 +4,6 @@
 \docType{package}
 \title{
 Dataset from Programme for International Student Assessment 2000
-
 }
 \description{
 This is an R package that aggregates data from PISA 2000.
