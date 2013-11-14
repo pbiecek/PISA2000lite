@@ -24,6 +24,11 @@ prepare <- function(dataset, name) {
 # School and School dict
 #
 
+setwd("/Users/pbiecek/camtasia/GitHub/")
+scoredItems2000 <- read.spss("Score2000.sav", to.data.frame=TRUE)
+prepare(scoredItems2000, "scoredItem2000")
+
+
 school2000 <- read.spss("school.sav", to.data.frame=TRUE)
 prepare(school2000, "school2000")
 
